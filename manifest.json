@@ -1,0 +1,11 @@
+{
+    "name": "flappybird",
+    "vendor": "ysdragon",
+    "app_name_multilang": ["flappybird", "flappybird", "flappybird"],
+    "description": "",
+    "version": 1,
+
+    "required_ram": 60,
+    "imsi": "",
+    "run_in_background": 0
+}
